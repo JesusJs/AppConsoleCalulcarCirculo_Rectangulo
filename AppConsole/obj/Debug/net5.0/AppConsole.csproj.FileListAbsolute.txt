@@ -1,0 +1,16 @@
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\bin\Debug\net5.0\AppConsole.exe
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\bin\Debug\net5.0\AppConsole.deps.json
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\bin\Debug\net5.0\AppConsole.runtimeconfig.json
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\bin\Debug\net5.0\AppConsole.runtimeconfig.dev.json
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\bin\Debug\net5.0\AppConsole.dll
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\bin\Debug\net5.0\ref\AppConsole.dll
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\bin\Debug\net5.0\AppConsole.pdb
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\obj\Debug\net5.0\AppConsole.csproj.AssemblyReference.cache
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\obj\Debug\net5.0\AppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\obj\Debug\net5.0\AppConsole.AssemblyInfoInputs.cache
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\obj\Debug\net5.0\AppConsole.AssemblyInfo.cs
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\obj\Debug\net5.0\AppConsole.csproj.CoreCompileInputs.cache
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\obj\Debug\net5.0\AppConsole.dll
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\obj\Debug\net5.0\ref\AppConsole.dll
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\obj\Debug\net5.0\AppConsole.pdb
+C:\Users\jdani\OneDrive\Documents\c#\AppConsole\AppConsole\obj\Debug\net5.0\AppConsole.genruntimeconfig.cache
