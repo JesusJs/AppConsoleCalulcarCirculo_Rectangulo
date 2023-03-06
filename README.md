@@ -1,4 +1,4 @@
-# Applicacion de consola
+# Applicacion de consola Asp.Net Core - C#
 # 1) Calulcar rectangulo segun los valores proporcionados por el usuario
 # 2) Calcular Círculo segun el valor proporcionado por el usuario
 
